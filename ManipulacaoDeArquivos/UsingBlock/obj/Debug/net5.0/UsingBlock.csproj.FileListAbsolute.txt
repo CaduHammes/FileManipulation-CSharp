@@ -1,0 +1,16 @@
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\UsingBlock\bin\Debug\net5.0\UsingBlock.exe
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\UsingBlock\bin\Debug\net5.0\UsingBlock.deps.json
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\UsingBlock\bin\Debug\net5.0\UsingBlock.runtimeconfig.json
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\UsingBlock\bin\Debug\net5.0\UsingBlock.runtimeconfig.dev.json
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\UsingBlock\bin\Debug\net5.0\UsingBlock.dll
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\UsingBlock\bin\Debug\net5.0\ref\UsingBlock.dll
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\UsingBlock\bin\Debug\net5.0\UsingBlock.pdb
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\UsingBlock\obj\Debug\net5.0\UsingBlock.csproj.AssemblyReference.cache
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\UsingBlock\obj\Debug\net5.0\UsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\UsingBlock\obj\Debug\net5.0\UsingBlock.AssemblyInfoInputs.cache
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\UsingBlock\obj\Debug\net5.0\UsingBlock.AssemblyInfo.cs
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\UsingBlock\obj\Debug\net5.0\UsingBlock.csproj.CoreCompileInputs.cache
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\UsingBlock\obj\Debug\net5.0\UsingBlock.dll
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\UsingBlock\obj\Debug\net5.0\ref\UsingBlock.dll
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\UsingBlock\obj\Debug\net5.0\UsingBlock.pdb
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\UsingBlock\obj\Debug\net5.0\UsingBlock.genruntimeconfig.cache

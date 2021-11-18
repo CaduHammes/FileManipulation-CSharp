@@ -1,0 +1,15 @@
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\FileStreamAndStreamReader\bin\Debug\net5.0\FileStreamAndStreamReader.exe
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\FileStreamAndStreamReader\bin\Debug\net5.0\FileStreamAndStreamReader.deps.json
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\FileStreamAndStreamReader\bin\Debug\net5.0\FileStreamAndStreamReader.runtimeconfig.json
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\FileStreamAndStreamReader\bin\Debug\net5.0\FileStreamAndStreamReader.runtimeconfig.dev.json
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\FileStreamAndStreamReader\bin\Debug\net5.0\FileStreamAndStreamReader.dll
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\FileStreamAndStreamReader\bin\Debug\net5.0\ref\FileStreamAndStreamReader.dll
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\FileStreamAndStreamReader\bin\Debug\net5.0\FileStreamAndStreamReader.pdb
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\FileStreamAndStreamReader\obj\Debug\net5.0\FileStreamAndStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\FileStreamAndStreamReader\obj\Debug\net5.0\FileStreamAndStreamReader.AssemblyInfoInputs.cache
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\FileStreamAndStreamReader\obj\Debug\net5.0\FileStreamAndStreamReader.AssemblyInfo.cs
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\FileStreamAndStreamReader\obj\Debug\net5.0\FileStreamAndStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\FileStreamAndStreamReader\obj\Debug\net5.0\FileStreamAndStreamReader.dll
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\FileStreamAndStreamReader\obj\Debug\net5.0\ref\FileStreamAndStreamReader.dll
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\FileStreamAndStreamReader\obj\Debug\net5.0\FileStreamAndStreamReader.pdb
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\FileStreamAndStreamReader\obj\Debug\net5.0\FileStreamAndStreamReader.genruntimeconfig.cache

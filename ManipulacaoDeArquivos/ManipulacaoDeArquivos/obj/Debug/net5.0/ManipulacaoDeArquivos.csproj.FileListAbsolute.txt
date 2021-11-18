@@ -1,0 +1,16 @@
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\ManipulacaoDeArquivos\bin\Debug\net5.0\ManipulacaoDeArquivos.exe
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\ManipulacaoDeArquivos\bin\Debug\net5.0\ManipulacaoDeArquivos.deps.json
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\ManipulacaoDeArquivos\bin\Debug\net5.0\ManipulacaoDeArquivos.runtimeconfig.json
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\ManipulacaoDeArquivos\bin\Debug\net5.0\ManipulacaoDeArquivos.runtimeconfig.dev.json
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\ManipulacaoDeArquivos\bin\Debug\net5.0\ManipulacaoDeArquivos.dll
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\ManipulacaoDeArquivos\bin\Debug\net5.0\ref\ManipulacaoDeArquivos.dll
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\ManipulacaoDeArquivos\bin\Debug\net5.0\ManipulacaoDeArquivos.pdb
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net5.0\ManipulacaoDeArquivos.csproj.AssemblyReference.cache
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net5.0\ManipulacaoDeArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net5.0\ManipulacaoDeArquivos.AssemblyInfoInputs.cache
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net5.0\ManipulacaoDeArquivos.AssemblyInfo.cs
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net5.0\ManipulacaoDeArquivos.csproj.CoreCompileInputs.cache
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net5.0\ManipulacaoDeArquivos.dll
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net5.0\ref\ManipulacaoDeArquivos.dll
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net5.0\ManipulacaoDeArquivos.pdb
+C:\Users\duduh\source\repos\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net5.0\ManipulacaoDeArquivos.genruntimeconfig.cache
